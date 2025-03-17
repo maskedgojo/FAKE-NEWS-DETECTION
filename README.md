@@ -15,9 +15,9 @@ The goal of this project is to combat the spread of misinformation by automatica
 ## Key Features
 --------------
 
-- **Data Preprocessing**: The project involves collecting and preprocessing a dataset containing news articles. Techniques such as tokenization, stemming, and TF-IDF vectorization are used to transform text data into numerical features[1][2].
-- **Model Development**: The project employs several machine learning algorithms, including Logistic Regression, Decision Trees, Random Forest, and Support Vector Machines (SVM), to build predictive models[5][6].
-- **Model Evaluation**: The performance of each model is assessed using metrics such as accuracy, precision, recall, and F1-score[3][5].
+- **Data Preprocessing**: The project involves collecting and preprocessing a dataset containing news articles. Techniques such as tokenization, stemming, and TF-IDF vectorization are used to transform text data into numerical features.
+- **Model Development**: The project employs several machine learning algorithms, including Logistic Regression, Decision Trees, Random Forest, and Support Vector Machines (SVM), to build predictive models.
+- **Model Evaluation**: The performance of each model is assessed using metrics such as accuracy, precision, recall, and F1-score.
 
 ## Technologies Used
 --------------------
@@ -33,7 +33,8 @@ The goal of this project is to combat the spread of misinformation by automatica
 ## Dataset
 ----------
 
-The dataset used in this project typically includes labeled news articles, with each article marked as either fake or real. The dataset can be sourced from platforms like Kaggle or UCI Machine Learning Repository[2][3].
+The dataset used in this project typically includes labeled news articles, with each article marked as either fake or real. The dataset can be sourced from platforms like Kaggle or UCI Machine Learning Repository.
+https://www.kaggle.com/c/fake-news/data?select=train.csv
 
 ## Getting Started
 -----------------
